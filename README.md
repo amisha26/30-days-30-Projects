@@ -1,4 +1,4 @@
-### 10 days 10 projects on Java Script.
+### 10 days 10 Projects on Java Script.
 
 
 |  #  | Project                                                                                                  | Live Demo                                      |
