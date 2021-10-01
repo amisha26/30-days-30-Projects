@@ -15,4 +15,4 @@
 | 07  | [Hover-Board](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/HoverBoard)      | [Live Demo](https://hover-booard.netlify.app/) |
 | 08  | [Double-Vertical-Slider](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Double-Vertical-Slider)      | [Live Demo](https://slider-double2.netlify.app/) |
  09  | [Sticky-Navbar](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Sticky-Navbar)      | [Live Demo](https://sticky-bar.netlify.app/) |
-  10  | [Testimonial-Box-Switcher](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Testimonial-Box-Switcher)      | [Live Demo]() |
+  10  | [Testimonial-Box-Switcher](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Testimonial-Box-Switcher)      | [Live Demo](https://test-switvh.netlify.app/) |
