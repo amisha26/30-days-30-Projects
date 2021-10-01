@@ -14,3 +14,4 @@
 | 06  | [Live-User-Filter](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Live-User-Filter)      | [Live Demo](https://filters-users.netlify.app/) |
 | 07  | [Hover-Board](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/HoverBoard)      | [Live Demo]() |
 | 08  | [Double-Vertical-Slider](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Double-Vertical-Slider)      | [Live Demo]() |
+ 09  | [Sticky-Navbar](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Sticky-Navbar)      | [Live Demo]() |
