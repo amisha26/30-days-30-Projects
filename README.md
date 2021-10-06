@@ -17,5 +17,5 @@
  09  | [Sticky-Navbar](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Sticky-Navbar)      | [Live Demo](https://sticky-bar.netlify.app/) |
   10  | [Testimonial-Box-Switcher](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Testimonial-Box-Switcher)      | [Live Demo](https://test-switvh.netlify.app/) |
 | 11  | [Progress-Steps](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Progress-Steps)      | [Live Demo]() |
-
+| 12  | [Split-Landing-Page](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Split-Landing-Page)      | [Live Demo]() |
 ### HAPPY CODING :)
