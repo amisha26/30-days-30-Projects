@@ -16,7 +16,7 @@
 | 08  | [Double-Vertical-Slider](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Double-Vertical-Slider)      | [Live Demo](https://slider-double2.netlify.app/) |
  09  | [Sticky-Navbar](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Sticky-Navbar)      | [Live Demo](https://sticky-bar.netlify.app/) |
   10  | [Testimonial-Box-Switcher](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Testimonial-Box-Switcher)      | [Live Demo](https://test-switvh.netlify.app/) |
-| 11  | [Progress-Steps](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Progress-Steps)      | [Live Demo]() |
+| 11  | [Progress-Steps](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Progress-Steps)      | [Live Demo](https://dreamy-bardeen-39f197.netlify.app/) |
 | 12  | [Split-Landing-Page](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Split-Landing-Page)      | [Live Demo]() |
 | 13  | [Scroll-Animation](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Scroll-Animation)      | [Live Demo]() |
 | 14  | [Drawing-App](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Drawing-App)      | [Live Demo]() |
