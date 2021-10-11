@@ -1,7 +1,7 @@
 ## HTML, CSS & Java-Script  
 
 
-### 20 days 20 Projects on Java-Script.
+### 17 days 17 Projects on Java-Script.
 
 
 |  #  | Project                                                                                                  | Live Demo                                      |
