@@ -23,6 +23,7 @@
 | 15  | [Drag-&-Drop](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Drag-&-Drop)      | [Live Demo](https://thirsty-bell-b55801.netlify.app/) |
 | 16  | [Password-Generator](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Password-Generator)      | [Live Demo](https://roentgen-f2e8b6.netlify.app/) |
 | 17  | [Random-Img](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Random-Img)      | [Live Demo](https://xenodochial-hoover-a8ab97.netlify.app/) |
+| 18  | [Drink-Water](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Drink-Water)      | [Live Demo]() |
 
 ### To learn Java-Script 👇
 
