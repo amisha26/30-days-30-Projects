@@ -25,7 +25,7 @@
 | 17  | [Random-Img](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Random-Img)      | [Live Demo](https://xenodochial-hoover-a8ab97.netlify.app/) |
 | 18  | [Drink-Water](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Drink-Water)      | [Live Demo]() |
 | 19  | [Faq-Collaspe](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Faq-Collapse)      | [Live Demo]() |
-| 19  | [Toast-Notifiation](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Toast-Notifiation)      | [Live Demo]() |
+| 20  | [Toast-Notifiation](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Toast-Notifiation)      | [Live Demo]() |
 
 ### To learn Java-Script 👇
 
