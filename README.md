@@ -24,7 +24,7 @@
 | 16  | [Password-Generator](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Password-Generator)      | [Live Demo](https://roentgen-f2e8b6.netlify.app/) |
 | 17  | [Random-Img](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Random-Img)      | [Live Demo](https://xenodochial-hoover-a8ab97.netlify.app/) |
 | 18  | [Drink-Water](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Drink-Water)      | [Live Demo]() |
-| 19  | [Faq-Collaspe](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Faq-Collapse)      | [Live Demo]() |
+| 19  | [Faq-Collaspe](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Faq-Collapse)      | [Live Demo](https://eloquent-bassi-414159.netlify.app/) |
 | 20  | [Toast-Notifiation](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Toast-Notifiation)      | [Live Demo](https://keen-pare-964f33.netlify.app/) |
 
 ### To learn Java-Script 👇
