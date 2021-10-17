@@ -1,7 +1,7 @@
 ## HTML, CSS & Java-Script  ( Basic Projects For Beginner )
 
 
-### 20 days 20 Projects on Java-Script.
+### 30 days 30 Projects on Java-Script.
 
 
 |  #  | Project                                                                                                  | Live Demo                                      |
