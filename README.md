@@ -1,4 +1,4 @@
-## HTML, CSS & Java-Script  ( Basic Projects For Beginner )
+## HTML, CSS & Java-Script  ( Basic Projects For Beginners )
 
 
 ### 30 days 30 Projects on Java-Script.
