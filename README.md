@@ -26,8 +26,8 @@
 | 18  | [Drink-Water](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Drink-Water)      | [Live Demo](https://admiring-fermat-215821.netlify.app/) |
 | 19  | [Faq-Collaspe](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Faq-Collapse)      | [Live Demo](https://eloquent-bassi-414159.netlify.app/) |
 | 20  | [Toast-Notifiation](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Toast-Notifiation)      | [Live Demo](https://keen-pare-964f33.netlify.app/) |
-| 21  | [Quiz-App](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Quiz-App)      | [Live Demo]() |
-| 22  | [Hidden-Search](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Hidden-Search)      | [Live Demo]() |
+| 21  | [Quiz-App](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Quiz-App)      | No Demo |
+| 22  | [Hidden-Search](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Hidden-Search)      | No Demo |
 
 ### To learn Java-Script 👇
 
