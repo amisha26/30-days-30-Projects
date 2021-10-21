@@ -30,6 +30,7 @@
 | 22  | [Hidden-Search](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Hidden-Search)      | No Demo |
 | 23  | [Feedback-UI](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Feedback-UI)      | No Demo |
 | 24  | [3d-Boxes](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/3d-Boxes)      | No Demo |
+| 24  | [Animated-Countdown](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Animated-Countdown) | No Demo |
 
 ### To learn Java-Script 👇
 
