@@ -26,7 +26,7 @@
 | 18  | [Drink-Water](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Drink-Water)      | [Live Demo](https://admiring-fermat-215821.netlify.app/) |
 | 19  | [Faq-Collaspe](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Faq-Collapse)      | [Live Demo](https://eloquent-bassi-414159.netlify.app/) |
 | 20  | [Toast-Notifiation](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Toast-Notifiation)      | [Live Demo](https://keen-pare-964f33.netlify.app/) |
-| 21  | [Quiz-App](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Quiz-App)      | No Demo |
+| 21  | [Quiz-App](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Quiz-App)      | [Live Demo](https://blissful-shockley-27be48.netlify.app/) |
 | 22  | [Hidden-Search](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Hidden-Search)      | No Demo |
 | 23  | [Feedback-UI](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Feedback-UI)      | No Demo |
 | 24  | [3d-Boxes](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/3d-Boxes)      | No Demo |
