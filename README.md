@@ -32,7 +32,7 @@
 | 24  | [3d-Boxes](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/3d-Boxes)      | No Demo |
 | 25  | [Animated-Countdown](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Animated-Countdown) | No Demo |
 | 26  | [Notes-App](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Notes-App) | No Demo |
-
+| 27  | [Auto-Text-Effect](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Auto-Text-Effect) | No Demo |
 
 ### To learn Java-Script 👇
 
