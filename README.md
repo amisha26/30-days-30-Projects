@@ -28,7 +28,7 @@
 | 20  | [Toast-Notifiation](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Toast-Notifiation)      | [Live Demo](https://keen-pare-964f33.netlify.app/) |
 | 21  | [Quiz-App](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Quiz-App)      | [Live Demo](https://blissful-shockley-27be48.netlify.app/) |
 | 22  | [Hidden-Search](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Hidden-Search)      | [Live Demo](https://naughty-wilson-5d7e9f.netlify.app/) |
-| 23  | [Feedback-UI](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Feedback-UI)      | [Live Demo]() |
+| 23  | [Feedback-UI](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Feedback-UI)      | [Live Demo](https://hypatia-4bce76.netlify.app/) |
 | 24  | [3d-Boxes](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/3d-Boxes)      | [Live Demo]() |
 | 25  | [Animated-Countdown](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Animated-Countdown) | [Live Demo]() |
 | 26  | [Notes-App](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Notes-App) | [Live Demo]() |
