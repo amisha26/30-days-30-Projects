@@ -31,7 +31,7 @@
 | 23  | [Feedback-UI](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Feedback-UI)      | [Live Demo](https://hypatia-4bce76.netlify.app/) |
 | 24  | [3d-Boxes](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/3d-Boxes)      | [Live Demo](https://adoring-bose-53ebce.netlify.app/) |
 | 25  | [Animated-Countdown](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Animated-Countdown) | [Live Demo](https://relaxed-hamilton-a83078.netlify.app/) |
-| 26  | [Notes-App](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Notes-App) | [Live Demo]() |
+| 26  | [Notes-App](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Notes-App) | [Live Demo](https://bell-ecc53a.netlify.app/) |
 | 27  | [Auto-Text-Effect](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Auto-Text-Effect) | [Live Demo]() |
 
 ### To learn Java-Script 👇
