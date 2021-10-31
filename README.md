@@ -1,7 +1,7 @@
 ## HTML, CSS & Java-Script  ( Basic Projects For Beginners )
 
-![30-days JS](https://github.com/amisha26/30-days-30-Projects/tree/master/img)
- 
+![30-days JS](https://github.com/amisha26/30-days-30-Projects/blob/master/img/js.png)
+
 ### 30 days 30 Projects on Java-Script.
 
 
