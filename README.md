@@ -36,6 +36,7 @@
 | 28  | [Kinetic-Loader](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Kinetic-Loader) | [Live Demo](https://sleepy-einstein-aa5a34.netlify.app/) |
 | 29  | [Event-Keycodes](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Event-Keycodes) | [Live Demo](https://infallible-tereshkova-f8a9c9.netlify.app/) |
 | 30  | [Form-Input-Wave](https://github.com/amisha26/10-days-10-Projects-JS/tree/master/Form-Input-Wave) | [Live Demo](https://relaxed-banach-4a72a3.netlify.app/) |
+
 ### To learn Java-Script 👇
 
 * [W3School](https://www.w3schools.com/js/)
